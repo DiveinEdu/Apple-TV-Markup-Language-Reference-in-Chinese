@@ -1,0 +1,2 @@
+####divTemplate
+#####divTemplate用于当前的布局在已经定义好的模板中找不到合适的情况下来创建页面的，没有一个内置布局适合已有的元素，用<a href="https://developer.apple.com/library/prerelease/tvos/documentation/LanguagesUtilities/Conceptual/ATV_Template_Guide/ITMLStyles.html#//apple_ref/doc/uid/TP40015064-CH11-SW1">TVML Styles</a>实现一个个性化布局在div模板里，只有当其他的模板没法实现你想要的效果时才用divTemplate
