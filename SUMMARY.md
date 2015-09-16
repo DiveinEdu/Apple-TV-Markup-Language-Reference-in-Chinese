@@ -20,8 +20,8 @@
 
 ##目录
 
-* [关于TVML](Apple-TV-Markup-Language-Reference/About_TVML.md)
-* [alertTemplate](Apple-TV-Markup-Language-Reference/Templates/alertTemplate.md)
-* [catelogTemplate](Apple-TV-Markup-Language-Reference/Templates/catelogTemplate.md)
+* [关于TVML](./Apple-TV-Markup-Language-Reference/About_TVML.md)
+* [alertTemplate](./Apple-TV-Markup-Language-Reference/Templates/alertTemplate.md)
+* [catelogTemplate](./Apple-TV-Markup-Language-Reference/Templates/catelogTemplate.md)
 * [compilationTemplate](Apple-TV-Markup-Language-Reference/Templates/compilationTemplate.md)
 
